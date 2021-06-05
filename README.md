@@ -48,7 +48,7 @@ tokens in RGF as <R2,5> and <R3,7>, then the instruction token in INB would be <
 READ and DECODE transitions are activated. Both READ and DECODE transitions are executed together. 
 Please note that when READ consumes two register tokens, it also returns them to RGF in the same time step
 (no change in RGF due to READ).\
-** 2. DECODE:**\
+**2. DECODE:**\
 The DECODE transition consumes the top (in-order) instruction (one token) from INM and updates the 
 values of the source registers with the values from RGF (with the help of READ transition, as described 
 above), and places the modified instruction token in INB.\
