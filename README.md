@@ -2,9 +2,9 @@
 
 > MIPS Datapath figure.
 
-![image](https://user-images.githubusercontent.com/45356812/120899806-872ae600-c5ff-11eb-804c-603b28762798.png) \
+![image](https://user-images.githubusercontent.com/45356812/120899806-872ae600-c5ff-11eb-804c-603b28762798.png) 
 
-This petrinet model has three important places (instruction memory, register file, and data memory) and eight transitions.\
+This petrinet model has three important places (instruction memory, register file, and data memory) and eight transitions.
 
 
 > THREE IMPORTANT PLACES
