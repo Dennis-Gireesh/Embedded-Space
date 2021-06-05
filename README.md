@@ -1,2 +1,2 @@
-# Petrinet simulator for a MIPS processor
+# Petrinet simulation for a MIPS processor
 Embedded projects workspace
